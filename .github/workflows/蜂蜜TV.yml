@@ -7,7 +7,7 @@ on:
 
 
 env:
-  userName: FongMi
+  userName: zxyadc
   repoName: TV
   branchName: dev
   appName: 蜂蜜TV
